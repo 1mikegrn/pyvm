@@ -12,3 +12,5 @@ activation script. activation script has the same action as the `venv`
 activation script, but also includes env flags for specifying .so library
 directories.
 
+Requirements:
+    docker
